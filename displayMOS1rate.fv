@@ -1,0 +1,4 @@
+ 
+
+open rateMOS1.fits 
+display curve 1 TIME {} RATE ERROR 

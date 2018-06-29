@@ -1,0 +1,4 @@
+ 
+
+open ratePN.fits 
+display curve 1 TIME {} RATE ERROR 

@@ -1,0 +1,4 @@
+ 
+
+open rgs2_rateset.fit 
+display curve 1 TIME {} RATE ERROR 
