@@ -1,0 +1,5 @@
+for {set j 1} {$j<$argc} {incr j} {
+	puts "\n Opening [lindex $argv $j]"
+	open [lindex $argv $j]
+	display curve 1 TIME {} RATE ERROR
+}
